@@ -7,4 +7,5 @@ if stage_number >= 1 && stage_number <= 25
       puts "#" * count
       count += 1
   end
+else puts "Merci de rentrer un nombre entre 1 et 25."
 end
